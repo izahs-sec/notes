@@ -1,0 +1,1 @@
+DNS record	When you make a DNS query, you get 0 or more records in response. Every record has at least 4 fields: the name, the TTL, the type, and one or more content fields. For example the IP address in an A record is its content.
